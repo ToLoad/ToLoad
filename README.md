@@ -1,7 +1,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&lines=An+ToLoad+Youngwon)](https://git.io/typing-svg)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FToLoad&count_bg=%2362D50B&title_bg=%23555555&icon=spring.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!-- 👀 [Notion Portfolio](https://vine-sting-4e5.notion.site/74b288996fbb4f9897ca528e90c0f6ce) -->
